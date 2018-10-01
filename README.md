@@ -11,5 +11,6 @@ Pull requests considered, thoroughly, then most likely rejected.
 
 - [ ] Give a TED talk.
 - [ ] Write a book.
-- [ ] Have kids.
+- [ ] Visit the LEGO House.
 - [ ] Learn to play an instrument.
+- [ ] Have a child.

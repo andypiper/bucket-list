@@ -12,7 +12,7 @@ Pull requests considered, thoroughly, then most likely rejected.
 - [ ] Work as a CTO / CxO (probably not CEO as I'd fail with that level of responsibility across an org)
 - [ ] Give a TED talk.
 - [ ] Write a book.
-= [ ] Get a [small tattoo](https://twitter.com/andypiper/status/1148707820965175296)
-- [ ] Visit the [LEGO House](https://www.legohouse.com/en-gb).
+- [ ] Get a [small tattoo](https://twitter.com/andypiper/status/1148707820965175296)
+- [ ] Visit the [LEGO House](https://www.legohouse.com/en-gb)
 - [ ] Learn to play an instrument.
 - [ ] Have a child.

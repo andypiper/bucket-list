@@ -10,6 +10,7 @@ Pull requests considered, thoroughly, then most likely rejected.
 ## The List
 
 - [ ] Work as a CTO / CxO (probably not CEO as I'd fail with that level of responsibility across an org)
+- [ ] Speak at the company all hands
 - [ ] Give a TED talk.
 - [ ] Write a book.
 - [ ] Get a [small tattoo](https://twitter.com/andypiper/status/1148707820965175296)
